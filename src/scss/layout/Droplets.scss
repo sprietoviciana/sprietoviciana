@@ -1,0 +1,45 @@
+.droplets-container {
+    position: fixed;
+    bottom: 20px; 
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 20px;
+    z-index: 1;
+  }
+  
+  .droplet {
+    width: 10px;
+    height: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    backdrop-filter: blur(5px);
+    animation: bounce 2s infinite ease-in-out;
+  }
+  
+  .droplet:nth-child(2) {
+    width: 15px;
+    height: 15px;
+    animation-delay: 0.3s;
+  }
+  
+  .droplet:nth-child(3) {
+    width: 20px;
+    height: 20px;
+    animation-delay: 0.6s;
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    50% {
+      transform: translateY(-30px); 
+      opacity: 0.8;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }

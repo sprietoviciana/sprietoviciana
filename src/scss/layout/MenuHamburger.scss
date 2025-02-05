@@ -1,0 +1,10 @@
+@import "../core/variables";
+.menu {
+  color: $color-font;
+  &:hover {
+    cursor: pointer;
+  }
+  @media (min-width: 500px) {
+    display: none;
+  }
+}

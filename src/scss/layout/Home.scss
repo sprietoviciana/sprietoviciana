@@ -1,0 +1,15 @@
+@import "../core/variables";
+.home-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, $primary-color 10%, #3a3939 100%);
+  color: $color-font;
+
+  .home-title {
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+  }
+}
