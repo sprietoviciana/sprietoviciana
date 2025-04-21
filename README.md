@@ -26,7 +26,7 @@ Hola, soy Silvia! Una **desarrolladora web frontend** apasionada por crear inter
 
 ## 📅 En qué estoy trabajando ahora
 
-- 💻 Desarrollando [Proyecto de Angular y TS. App de lista de tareas](https://github.com/sprietoviciana/angular-todo-list)
+- 💻 Desarrollando un proyecto personal [DocDaily](https://github.com/sprietoviciana/docdaily) y [Proyecto de Angular y TS. App de lista de tareas](https://github.com/sprietoviciana/angular-todo-list)
 - 💻 Aprendiendo más sobre TypeScript y Angular.
 - 📖 Curso de ciberseguridad de Google.
 
