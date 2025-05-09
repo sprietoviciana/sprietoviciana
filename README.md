@@ -12,7 +12,7 @@ Hola, soy Silvia! Una **desarrolladora web frontend** apasionada por crear inter
 
 - Soy de Cádiz y vivo en Zaragoza. 🧭
 - Me encanta el café. :coffee:
-- Tengo dos gatitos Dobby y Zelda. 🐈 🐈
+- Tengo tres gatitos Baghee, Dobby y Zelda. 🐈 🐈 🐈
 - Me gusta mucho los juegos de mesa y los videojuegos. :game_die: :video_game:
 
 ## 🛠️ Stack Tecnológico
